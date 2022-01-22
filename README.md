@@ -50,3 +50,5 @@ Functions are set up with TypeScript, so you'll need to run the watch script (or
 cd functions;
 yarn dev
 ```
+
+Only authentication and Firestore are set up for use with emulation. For adding other emulator hooks, see the [Firebase emulator Suite](https://firebase.google.com/docs/emulator-suite) docs.
